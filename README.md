@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hamster_Student&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=300&section=header&text=Hamster_Student&animation=fadeIn&fontColor=005518&fontAlign=70&fontSize=20)
 
 ![HamsterStudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterStudent&show_icons=true&theme=shadow_green)
 <!--
