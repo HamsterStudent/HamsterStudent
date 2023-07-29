@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=300&section=header)
 
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=REACT&logoColor=61DAFB"/>
+
 ![HamsterStudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterStudent&show_icons=true&theme=shadow_green)
 <!--
 **HamsterStudent/HamsterStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
