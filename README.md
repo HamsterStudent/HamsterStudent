@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![HamsterStudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterStudent&show_icons=true&theme=radical)
 <!--
 **HamsterStudent/HamsterStudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
