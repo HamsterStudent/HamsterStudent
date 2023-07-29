@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=100&section=header)
 
 <div align="center">
   
