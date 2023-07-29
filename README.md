@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=300&section=header)
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 ![HamsterStudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterStudent&show_icons=true&theme=shadow_green)
 <!--
