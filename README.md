@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=5a8e65&height=300&section=header)
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=REACT&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 ![HamsterStudent's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamsterStudent&show_icons=true&theme=shadow_green)
 <!--
